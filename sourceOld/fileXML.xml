@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+	<article mdate="2002-01-03" key="persons/Codd71a">
+		<author>E. F. Codd</author>
+		<title>Further Normalization of the Data Base Relational Model.</title>
+		<journal>IBM Research Report, San Jose, California</journal>
+		<volume>RJ909</volume>
+		<month>August</month>
+		<year>1971</year>
+		<cdrom>ibmTR/rj909.pdf</cdrom>
+		<ee>db/labs/ibm/RJ909.html</ee>
+	</article>
+	<article mdate="2002-01-03" key="persons/Hall74">
+		<author>Patrick A. V. Hall</author>
+		<title>Common Subexpression Identification in General Algebraic Systems.</title>
+		<journal>Technical Rep. UKSC 0060, IBM United Kingdom Scientific Centre</journal>
+		<month>November</month>
+		<year>1974</year>
+	</article>
+	<article mdate="2002-01-03" key="persons/Tresch96">
+		<author>Markus Tresch</author>
+		<title>Principles of Distributed Object Database Languages.</title>
+		<journal>technical Report 248, ETH Z&uuml;rich, Dept. of Computer Science</journal>
+		<month>July</month>
+		<year>1996</year>
+	</article>
+	<article mdate="2002-01-03" key="persons/CoddD74">
+		<author>E. F. Codd</author>
+		<author>C. J. Date</author>
+		<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+		<journal>IBM Research Report, San Jose, California</journal>
+		<volume>RJ1400</volume>
+		<month>June</month>
+		<year>1974</year>
+	</article>
+	<inproceedings mdate="2006-09-21" key="conf/msr/OhiraOOM05">
+		<author>Masao Ohira</author>
+		<author>Naoki Ohsugi</author>
+		<author>Tetsuya Ohoka</author>
+		<author>Ken-ichi Matsumoto</author>
+		<title>Accelerating cross-project knowledge collaboration using collaborative filtering and social networks.</title>
+		<year>2005</year>
+		<crossref>conf/msr/2005</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1083142.1083163</ee>
+		<url>db/conf/msr/msr2005.html#OhiraOOM05</url>
+	</inproceedings>
+	<inproceedings mdate="2008-05-15" key="conf/msr/HillFBSNPV08">
+		<author>Emily Hill</author>
+		<author>Zachary P. Fry</author>
+		<author>Haley Boyd</author>
+		<author>Giriprasad Sridhara</author>
+		<author>Yana Novikova</author>
+		<author>Lori L. Pollock</author>
+		<author>K. Vijay-Shanker</author>
+		<title>AMAP: automatically mining abbreviation expansions in programs to enhance software maintenance tools.</title>
+		<pages>79-88</pages>
+		<year>2008</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1370750.1370771</ee>
+		<crossref>conf/msr/2008</crossref>
+		<url>db/conf/msr/msr2008.html#HillFBSNPV08</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/ShihabJH09">
+		<author>Emad Shihab</author>
+		<author>Zhen Ming Jiang</author>
+		<author>Ahmed E. Hassan</author>
+		<title>On the use of Internet Relay Chat (IRC) meetings by developers of the GNOME GTK+ project.</title>
+		<pages>107-110</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069488</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#ShihabJH09</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/AmouiKATLL13">
+		<author>Mehdi Amoui</author>
+		<author>Nilam Kaushik</author>
+		<author>Abraham Al-Dabbagh</author>
+		<author>Ladan Tahvildari</author>
+		<author>Shimin Li</author>
+		<author>Weining Liu</author>
+		<title>Search-based duplicate defect detection: an industrial experience.</title>
+		<pages>173-182</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487122</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#AmouiKATLL13</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/WangG13">
+		<author>Wei Wang</author>
+		<author>Michael W. Godfrey</author>
+		<title>Detecting API usage obstacles: a study of iOS and Android developer questions.</title>
+		<pages>61-64</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487100</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#WangG13</url>
+	</inproceedings>
+	<inproceedings mdate="2008-05-15" key="conf/msr/HerraizGGR08">
+		<author>Israel Herraiz</author>
+		<author>Daniel M. Germ&aacute;n</author>
+		<author>Jes&uacute;s M. Gonz&aacute;lez-Barahona</author>
+		<author>Gregorio Robles</author>
+		<title>Towards a simplification of the bug report form in eclipse.</title>
+		<pages>145-148</pages>
+		<year>2008</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1370750.1370786</ee>
+		<crossref>conf/msr/2008</crossref>
+		<url>db/conf/msr/msr2008.html#HerraizGGR08</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/SismanK12">
+		<author>Bunyamin Sisman</author>
+		<author>Avinash C. Kak</author>
+		<title>Incorporating version histories in Information Retrieval based bug localization.</title>
+		<pages>50-59</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224299</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#SismanK12</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/KhomhDZA12">
+		<author>Foutse Khomh</author>
+		<author>Tejinder Dhaliwal</author>
+		<author>Ying Zou</author>
+		<author>Bram Adams</author>
+		<title>Do faster releases improve software quality? An empirical case study of Mozilla Firefox.</title>
+		<pages>179-188</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224279</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#KhomhDZA12</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/KhooMA13">
+		<author>Wei Ming Khoo</author>
+		<author>Alan Mycroft</author>
+		<author>Ross Anderson</author>
+		<title>Rendezvous: a search engine for binary code.</title>
+		<pages>329-338</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487147</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#KhooMA13</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-30" key="conf/msr/BernardiSZDP11">
+		<author>Mario Luca Bernardi</author>
+		<author>Carmine Sementa</author>
+		<author>Quirino Zagarese</author>
+		<author>Damiano Distante</author>
+		<author>Massimiliano Di Penta</author>
+		<title>What topics do Firefox and Chrome contributors discuss?</title>
+		<pages>234-237</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985480</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#BernardiSZDP11</url>
+	</inproceedings>
+	<inproceedings mdate="2008-05-15" key="conf/msr/HolmesW08">
+		<author>Reid Holmes</author>
+		<author>Robert J. Walker</author>
+		<title>A newbie's guide to eclipse APIs.</title>
+		<pages>149-152</pages>
+		<year>2008</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1370750.1370787</ee>
+		<crossref>conf/msr/2008</crossref>
+		<url>db/conf/msr/msr2008.html#HolmesW08</url>
+	</inproceedings>
+	<inproceedings mdate="2008-05-15" key="conf/msr/PattisonBD08">
+		<author>David S. Pattison</author>
+		<author>Christian Bird</author>
+		<author>Premkumar T. Devanbu</author>
+		<title>Talk and work: a preliminary report.</title>
+		<pages>113-116</pages>
+		<year>2008</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1370750.1370776</ee>
+		<crossref>conf/msr/2008</crossref>
+		<url>db/conf/msr/msr2008.html#PattisonBD08</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/Robbes07">
+		<author>Romain Robbes</author>
+		<title>Mining a Change-Based Software Repository.</title>
+		<pages>15</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.18</ee>
+		<url>db/conf/msr/msr2007.html#Robbes07</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/SchackmannL09">
+		<author>Holger Schackmann</author>
+		<author>Horst Lichter</author>
+		<title>Evaluating process quality in GNOME based on change request data.</title>
+		<pages>95-98</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069485</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#SchackmannL09</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/NeamtiuFH05">
+		<author>Iulian Neamtiu</author>
+		<author>Jeffrey S. Foster</author>
+		<author>Michael W. Hicks</author>
+		<title>Understanding source code evolution using abstract syntax tree matching.</title>
+		<year>2005</year>
+		<crossref>conf/msr/2005</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1083142.1083143</ee>
+		<url>db/conf/msr/msr2005.html#NeamtiuFH05</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/SagerBPK06">
+		<author>Tobias Sager</author>
+		<author>Abraham Bernstein</author>
+		<author>Martin Pinzger</author>
+		<author>Christoph Kiefer</author>
+		<title>Detecting similar Java classes using tree algorithms.</title>
+		<pages>65-71</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1138000</ee>
+		<url>db/conf/msr/msr2006.html#SagerBPK06</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/KimW06">
+		<author>Sunghun Kim</author>
+		<author>E. James Whitehead Jr.</author>
+		<title>How long did it take to fix bugs?</title>
+		<pages>173-174</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1138027</ee>
+		<url>db/conf/msr/msr2006.html#KimW06</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/ShihabKB12">
+		<author>Emad Shihab</author>
+		<author>Yasutaka Kamei</author>
+		<author>Pamela Bhattacharya</author>
+		<title>Mining challenge 2012: The Android platform.</title>
+		<pages>112-115</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224307</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#ShihabKB12</url>
+	</inproceedings>
+	<inproceedings mdate="2010-05-28" key="conf/msr/NussbaumZ10">
+		<author>Lucas Nussbaum</author>
+		<author>Stefano Zacchiroli</author>
+		<title>The Ultimate Debian Database: Consolidating bazaar metadata for Quality Assurance and data mining.</title>
+		<pages>52-61</pages>
+		<year>2010</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2010.5463277</ee>
+		<crossref>conf/msr/2010</crossref>
+		<url>db/conf/msr/msr2010.html#NussbaumZ10</url>
+	</inproceedings>
+	<inproceedings mdate="2010-06-06" key="conf/msr/DaviesZNG10">
+		<author>Julius Davies</author>
+		<author>Hanyu Zhang</author>
+		<author>Lucas Nussbaum</author>
+		<author>Daniel M. Germ&aacute;n</author>
+		<title>Perspectives on bugs in the Debian bug tracking system.</title>
+		<pages>86-89</pages>
+		<year>2010</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2010.5463288</ee>
+		<crossref>conf/msr/2010</crossref>
+		<url>db/conf/msr/msr2010.html#DaviesZNG10</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/XiaLWZ13">
+		<author>Xin Xia</author>
+		<author>David Lo</author>
+		<author>Xinyu Wang</author>
+		<author>Bo Zhou</author>
+		<title>Tag recommendation in software information sites.</title>
+		<pages>287-296</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487140</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#XiaLWZ13</url>
+	</inproceedings>
+	<inproceedings mdate="2013-03-13" key="conf/msr/MorisakiMMTM07">
+		<author>Shuji Morisaki</author>
+		<author>Akito Monden</author>
+		<author>Tomoko Matsumura</author>
+		<author>Haruaki Tamada</author>
+		<author>Ken-ichi Matsumoto</author>
+		<title>Defect Data Analysis Based on Extended Association Rule Mining.</title>
+		<pages>3</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.5</ee>
+		<url>db/conf/msr/msr2007.html#MorisakiMMTM07</url>
+	</inproceedings>
+	<inproceedings mdate="2008-05-15" key="conf/msr/Bernstein08">
+		<author>Abraham Bernstein</author>
+		<title>How to learn enough data mining to be dangerous in 60 minutes.</title>
+		<pages>77-78</pages>
+		<year>2008</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1370750.1370769</ee>
+		<crossref>conf/msr/2008</crossref>
+		<url>db/conf/msr/msr2008.html#Bernstein08</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/SigonneauR06">
+		<author>Benjamin Sigonneau</author>
+		<author>Olivier Ridoux</author>
+		<title>Software engineering applications of logic file system: application to automated multi-criteria indexation of software components.</title>
+		<pages>87-93</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1138005</ee>
+		<url>db/conf/msr/msr2006.html#SigonneauR06</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/Schroter07">
+		<author>Adrian Schr&ouml;ter</author>
+		<title>Predicting Defects and Changes with Import Relations.</title>
+		<pages>31</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.24</ee>
+		<url>db/conf/msr/msr2007.html#Schroter07</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/LubsenZP09">
+		<author>Zeeger Lubsen</author>
+		<author>Andy Zaidman</author>
+		<author>Martin Pinzger</author>
+		<title>Using association rules to study the co-evolution of production &amp; test code.</title>
+		<pages>151-154</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069493</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#LubsenZP09</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/XieP06">
+		<author>Tao Xie</author>
+		<author>Jian Pei</author>
+		<title>MAPO: mining API usages from open source repositories.</title>
+		<pages>54-57</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1137997</ee>
+		<url>db/conf/msr/msr2006.html#XieP06</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/BirdGDSH07">
+		<author>Christian Bird</author>
+		<author>Alex Gourley</author>
+		<author>Premkumar T. Devanbu</author>
+		<author>Anand Swaminathan</author>
+		<author>Greta Hsu</author>
+		<title>Open Borders? Immigration in Open Source Projects.</title>
+		<pages>6</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.23</ee>
+		<url>db/conf/msr/msr2007.html#BirdGDSH07</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/JanjicHSA13">
+		<author>Werner Janjic</author>
+		<author>Oliver Hummel</author>
+		<author>Marcus Schumacher</author>
+		<author>Colin Atkinson</author>
+		<title>An unabridged source code dataset for research in software reuse.</title>
+		<pages>339-342</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487148</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#JanjicHSA13</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/BirdGDGS06">
+		<author>Christian Bird</author>
+		<author>Alex Gourley</author>
+		<author>Premkumar T. Devanbu</author>
+		<author>Michael Gertz</author>
+		<author>Anand Swaminathan</author>
+		<title>Mining email social networks.</title>
+		<pages>137-143</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1138016</ee>
+		<url>db/conf/msr/msr2006.html#BirdGDGS06</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/KimWB05">
+		<author>Sunghun Kim</author>
+		<author>E. James Whitehead Jr.</author>
+		<author>Jennifer Bevan</author>
+		<title>Analysis of signature change patterns.</title>
+		<year>2005</year>
+		<crossref>conf/msr/2005</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1083142.1083154</ee>
+		<url>db/conf/msr/msr2005.html#KimWB05</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-10" key="conf/msr/KagdiM07">
+		<author>Huzefa H. Kagdi</author>
+		<author>Jonathan I. Maletic</author>
+		<title>Combining Single-Version and Evolutionary Dependencies for Software-Change Prediction.</title>
+		<pages>17</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.2</ee>
+		<url>db/conf/msr/msr2007.html#KagdiM07</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/AlipourHS13">
+		<author>Anahita Alipour</author>
+		<author>Abram Hindle</author>
+		<author>Eleni Stroulia</author>
+		<title>A contextual approach towards more accurate duplicate bug report detection.</title>
+		<pages>183-192</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487123</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#AlipourHS13</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/AnvikM07">
+		<author>John Anvik</author>
+		<author>Gail C. Murphy</author>
+		<title>Determining Implementation Expertise from Bug Reports.</title>
+		<pages>2</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.7</ee>
+		<url>db/conf/msr/msr2007.html#AnvikM07</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/ParkKRB12">
+		<author>Jihun Park</author>
+		<author>Miryung Kim</author>
+		<author>Baishakhi Ray</author>
+		<author>Doo-Hwan Bae</author>
+		<title>An empirical study of supplementary bug fixes.</title>
+		<pages>40-49</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224298</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#ParkKRB12</url>
+	</inproceedings>
+	<inproceedings mdate="2010-05-28" key="conf/msr/LamkanfiDGG10">
+		<author>Ahmed Lamkanfi</author>
+		<author>Serge Demeyer</author>
+		<author>Emanuel Giger</author>
+		<author>Bart Goethals</author>
+		<title>Predicting the severity of a reported bug.</title>
+		<pages>1-10</pages>
+		<year>2010</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2010.5463284</ee>
+		<crossref>conf/msr/2010</crossref>
+		<url>db/conf/msr/msr2010.html#LamkanfiDGG10</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/BajracharyaL09">
+		<author>Sushil Krishna Bajracharya</author>
+		<author>Cristina Videira Lopes</author>
+		<title>Mining search topics from a code search engine usage log.</title>
+		<pages>111-120</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069489</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#BajracharyaL09</url>
+	</inproceedings>
+	<inproceedings mdate="2011-07-15" key="conf/msr/BaysalDG11">
+		<author>Olga Baysal</author>
+		<author>Ian J. Davis</author>
+		<author>Michael W. Godfrey</author>
+		<title>A Tale of Two Browsers.</title>
+		<pages>238-241</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985481</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#BaysalDG11</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/Masticola07">
+		<author>Stephen P. Masticola</author>
+		<title>Lightweight Risk Mitigation for Software Development Projects Using Repository Mining.</title>
+		<pages>13</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.16</ee>
+		<url>db/conf/msr/msr2007.html#Masticola07</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/Gonzalez-BarahonaRH07">
+		<author>Jes&uacute;s M. Gonz&aacute;lez-Barahona</author>
+		<author>Gregorio Robles</author>
+		<author>Israel Herraiz</author>
+		<title>Impact of the Creation of the Mozilla Foundation in the Activity of Developers.</title>
+		<pages>28</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.15</ee>
+		<url>db/conf/msr/msr2007.html#Gonzalez-BarahonaRH07</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/LinsteadB09">
+		<author>Erik Linstead</author>
+		<author>Pierre Baldi</author>
+		<title>Mining the coherence of GNOME bug reports with statistical topic models.</title>
+		<pages>99-102</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069486</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#LinsteadB09</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/ZimmermannKZW06">
+		<author>Thomas Zimmermann</author>
+		<author>Sunghun Kim</author>
+		<author>Andreas Zeller</author>
+		<author>E. James Whitehead Jr.</author>
+		<title>Mining version archives for co-changed lines.</title>
+		<pages>72-75</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1138001</ee>
+		<url>db/conf/msr/msr2006.html#ZimmermannKZW06</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/German07">
+		<author>Daniel M. Germ&aacute;n</author>
+		<title>Using Software Distributions to Understand the Relationship among Free and Open Source Software Projects.</title>
+		<pages>24</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.32</ee>
+		<url>db/conf/msr/msr2007.html#German07</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-30" key="conf/msr/Schroter11">
+		<author>Adrian Schr&ouml;ter</author>
+		<title>MSR Challenge 2011: Eclipse, Netbeans, Firefox, and Chrome.</title>
+		<pages>227-229</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985478</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#Schroter11</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/HattoriL09">
+		<author>Lile Hattori</author>
+		<author>Michele Lanza</author>
+		<title>Mining the history of synchronous changes to refine code ownership.</title>
+		<pages>141-150</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069492</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#HattoriL09</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/EkanayakeTGB09">
+		<author>Jayalath Ekanayake</author>
+		<author>Jonas Tappolet</author>
+		<author>Harald Gall</author>
+		<author>Abraham Bernstein</author>
+		<title>Tracking concept drift of software projects using defect prediction quality.</title>
+		<pages>51-60</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069480</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#EkanayakeTGB09</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/PetersMM13">
+		<author>Fayola Peters</author>
+		<author>Tim Menzies</author>
+		<author>Andrian Marcus</author>
+		<title>Better cross company defect prediction.</title>
+		<pages>409-418</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487161</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#PetersMM13</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/Squire13">
+		<author>Megan Squire</author>
+		<title>Project roles in the apache software foundation: a dataset.</title>
+		<pages>301-304</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487142</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#Squire13</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/Ball09">
+		<author>Thomas Ball</author>
+		<title>A brief history of software - from Bell Labs to Microsoft Research.</title>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069474</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#Ball09</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-30" key="conf/msr/ThomasAHB11">
+		<author>Stephen W. Thomas</author>
+		<author>Bram Adams</author>
+		<author>Ahmed E. Hassan</author>
+		<author>Dorothea Blostein</author>
+		<title>Modeling the evolution of topics in source code histories.</title>
+		<pages>173-182</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985467</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#ThomasAHB11</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/KnabPB06">
+		<author>Patrick Knab</author>
+		<author>Martin Pinzger</author>
+		<author>Abraham Bernstein</author>
+		<title>Predicting defect densities in source code files with decision tree learners.</title>
+		<pages>119-125</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1138012</ee>
+		<url>db/conf/msr/msr2006.html#KnabPB06</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/VasquezDP13">
+		<author>Mario Linares V&aacute;squez</author>
+		<author>Bogdan Dit</author>
+		<author>Denys Poshyvanyk</author>
+		<title>An exploratory analysis of mobile development issues using stack overflow.</title>
+		<pages>93-96</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487108</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#VasquezDP13</url>
+	</inproceedings>
+	<inproceedings mdate="2008-05-15" key="conf/msr/ThomsonH08">
+		<author>Christopher Thomson</author>
+		<author>Mike Holcombe</author>
+		<title>Correctness of data mined from CVS.</title>
+		<pages>117-120</pages>
+		<year>2008</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1370750.1370777</ee>
+		<crossref>conf/msr/2008</crossref>
+		<url>db/conf/msr/msr2008.html#ThomsonH08</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-30" key="conf/msr/BiegelSHDD11">
+		<author>Benjamin Biegel</author>
+		<author>Quinten David Soetens</author>
+		<author>Willi Hornig</author>
+		<author>Stephan Diehl</author>
+		<author>Serge Demeyer</author>
+		<title>Comparison of similarity metrics for refactoring detection.</title>
+		<pages>53-62</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985452</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#BiegelSHDD11</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/ZimmermannBLL06">
+		<author>Thomas Zimmermann</author>
+		<author>Silvia Breu</author>
+		<author>Christian Lindig</author>
+		<author>V. Benjamin Livshits</author>
+		<title>Mining additions of method calls in ArgoUML.</title>
+		<pages>169-170</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1138025</ee>
+		<url>db/conf/msr/msr2006.html#ZimmermannBLL06</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/Rodriguez-BustosA12">
+		<author>Christian Rodriguez-Bustos</author>
+		<author>Jairo Aponte</author>
+		<title>How Distributed Version Control Systems impact open source software projects.</title>
+		<pages>36-39</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224297</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#Rodriguez-BustosA12</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-30" key="conf/msr/PosnettHD11">
+		<author>Daryl Posnett</author>
+		<author>Abram Hindle</author>
+		<author>Premkumar T. Devanbu</author>
+		<title>A simpler model of software readability.</title>
+		<pages>73-82</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985454</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#PosnettHD11</url>
+	</inproceedings>
+	<inproceedings mdate="2010-05-28" key="conf/msr/VetroTM10">
+		<author>Antonio Vetro</author>
+		<author>Marco Torchiano</author>
+		<author>Maurizio Morisio</author>
+		<title>Assessing the precision of FindBugs by mining Java projects developed at a university.</title>
+		<pages>110-113</pages>
+		<year>2010</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2010.5463283</ee>
+		<crossref>conf/msr/2010</crossref>
+		<url>db/conf/msr/msr2010.html#VetroTM10</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/Squire13a">
+		<author>Megan Squire</author>
+		<title>Apache-affiliated twitter screen names: a dataset.</title>
+		<pages>305-308</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487143</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#Squire13a</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/SahaSS13">
+		<author>Avigit K. Saha</author>
+		<author>Ripon K. Saha</author>
+		<author>Kevin A. Schneider</author>
+		<title>A discriminative model approach for suggesting tags automatically for stack overflow questions.</title>
+		<pages>73-76</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487103</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#SahaSS13</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/HuHHW12">
+		<author>Wei Hu</author>
+		<author>Dan Han</author>
+		<author>Abram Hindle</author>
+		<author>Kenny Wong</author>
+		<title>The build dependency perspective of Android's concrete architecture.</title>
+		<pages>128-131</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224270</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#HuHHW12</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/WeissgerberPB07">
+		<author>Peter Wei&szlig;gerber</author>
+		<author>Mathias Pohl</author>
+		<author>Michael Burch</author>
+		<title>Visual Data Mining in Software Archives to Detect How Developers Work Together.</title>
+		<pages>9</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.34</ee>
+		<url>db/conf/msr/msr2007.html#WeissgerberPB07</url>
+	</inproceedings>
+	<proceedings mdate="2006-09-21" key="conf/msr/2006">
+		<editor>Stephan Diehl</editor>
+		<editor>Harald Gall</editor>
+		<editor>Ahmed E. Hassan</editor>
+		<title>Proceedings of the 2006 International Workshop on Mining Software Repositories, MSR 2006, Shanghai, China, May 22-23, 2006</title>
+		<booktitle>MSR</booktitle>
+		<publisher>ACM</publisher>
+		<year>2006</year>
+		<url>db/conf/msr/msr2006.html</url>
+		<isbn>1-59593-397-2</isbn>
+	</proceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/GhezziG13">
+		<author>Giacomo Ghezzi</author>
+		<author>Harald C. Gall</author>
+		<title>Replicating mining studies with SOFAS.</title>
+		<pages>363-372</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487152</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#GhezziG13</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/KimZKHMGPWZ06">
+		<author>Sunghun Kim</author>
+		<author>Thomas Zimmermann</author>
+		<author>Miryung Kim</author>
+		<author>Ahmed E. Hassan</author>
+		<author>Audris Mockus</author>
+		<author>Tudor G&icirc;rba</author>
+		<author>Martin Pinzger</author>
+		<author>E. James Whitehead Jr.</author>
+		<author>Andreas Zeller</author>
+		<title>TA-RE: an exchange language for mining software repositories.</title>
+		<pages>22-25</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1137990</ee>
+		<url>db/conf/msr/msr2006.html#KimZKHMGPWZ06</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/SubramanianH13">
+		<author>Siddharth Subramanian</author>
+		<author>Reid Holmes</author>
+		<title>Making sense of online code snippets.</title>
+		<pages>85-88</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487106</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#SubramanianH13</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/TsunodaMYKM06">
+		<author>Masateru Tsunoda</author>
+		<author>Akito Monden</author>
+		<author>Hiroshi Yadohisa</author>
+		<author>Nahomi Kikuchi</author>
+		<author>Ken-ichi Matsumoto</author>
+		<title>Productivity analysis of Japanese enterprise software development projects.</title>
+		<pages>14-17</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1137988</ee>
+		<url>db/conf/msr/msr2006.html#TsunodaMYKM06</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/GermanCS05">
+		<author>Daniel M. Germ&aacute;n</author>
+		<author>Davor Cubranic</author>
+		<author>Margaret-Anne D. Storey</author>
+		<title>A framework for describing and understanding mining tools in software development.</title>
+		<year>2005</year>
+		<crossref>conf/msr/2005</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1083142.1083160</ee>
+		<url>db/conf/msr/msr2005.html#GermanCS05</url>
+	</inproceedings>
+	<inproceedings mdate="2008-05-15" key="conf/msr/SiyCS08">
+		<author>Harvey P. Siy</author>
+		<author>Parvathi Chundi</author>
+		<author>Mahadevan Subramaniam</author>
+		<title>Summarizing developer work history using time series segmentation: challenge report.</title>
+		<pages>137-140</pages>
+		<year>2008</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1370750.1370784</ee>
+		<crossref>conf/msr/2008</crossref>
+		<url>db/conf/msr/msr2008.html#SiyCS08</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/NguyenK12">
+		<author>Anh Cuong Nguyen</author>
+		<author>Siau-Cheng Khoo</author>
+		<title>Discovering complete API rules with mutation testing.</title>
+		<pages>151-160</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224275</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#NguyenK12</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-30" key="conf/msr/GigerPG11">
+		<author>Emanuel Giger</author>
+		<author>Martin Pinzger</author>
+		<author>Harald Gall</author>
+		<title>Comparing fine-grained source code changes and code churn for bug prediction.</title>
+		<pages>83-92</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985456</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#GigerPG11</url>
+	</inproceedings>
+	<inproceedings mdate="2010-05-28" key="conf/msr/PentaGA10">
+		<author>Massimiliano Di Penta</author>
+		<author>Daniel M. Germ&aacute;n</author>
+		<author>Giuliano Antoniol</author>
+		<title>Identifying licensing of jar archives using a code-search approach.</title>
+		<pages>151-160</pages>
+		<year>2010</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2010.5463282</ee>
+		<crossref>conf/msr/2010</crossref>
+		<url>db/conf/msr/msr2010.html#PentaGA10</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/StevensGFDC13">
+		<author>Ryan Stevens</author>
+		<author>Jonathan Ganz</author>
+		<author>Vladimir Filkov</author>
+		<author>Premkumar T. Devanbu</author>
+		<author>Hao Chen</author>
+		<title>Asking for (and about) permissions used by Android apps.</title>
+		<pages>31-40</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487093</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#StevensGFDC13</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/ConklinHC05">
+		<author>Megan Conklin</author>
+		<author>James Howison</author>
+		<author>Kevin Crowston</author>
+		<title>Collaboration using OSSmole: a repository of FLOSS data and analyses.</title>
+		<year>2005</year>
+		<crossref>conf/msr/2005</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1083142.1083164</ee>
+		<url>db/conf/msr/msr2005.html#ConklinHC05</url>
+	</inproceedings>
+	<inproceedings mdate="2009-09-11" key="conf/msr/OssherBLBL09">
+		<author>Joel Ossher</author>
+		<author>Sushil Krishna Bajracharya</author>
+		<author>Erik Linstead</author>
+		<author>Pierre Baldi</author>
+		<author>Cristina Videira Lopes</author>
+		<title>SourcererDB: An aggregated repository of statically analyzed and cross-linked open source Java projects.</title>
+		<pages>183-186</pages>
+		<year>2009</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2009.5069501</ee>
+		<crossref>conf/msr/2009</crossref>
+		<url>db/conf/msr/msr2009.html#OssherBLBL09</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-31" key="conf/msr/SadowskiLLZW11">
+		<author>Caitlin Sadowski</author>
+		<author>Chris Lewis 0002</author>
+		<author>Zhongpeng Lin</author>
+		<author>Xiaoyan Zhu</author>
+		<author>E. James Whitehead Jr.</author>
+		<title>An empirical analysis of the FixCache algorithm.</title>
+		<pages>219-222</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985475</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#SadowskiLLZW11</url>
+	</inproceedings>
+	<inproceedings mdate="2010-05-28" key="conf/msr/JuzgadoV10">
+		<author>Natalia Juristo Juzgado</author>
+		<author>Sira Vegas</author>
+		<title>Using differences among replications of software engineering experiments to gain knowledge.</title>
+		<year>2010</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2010.5463362</ee>
+		<crossref>conf/msr/2010</crossref>
+		<url>db/conf/msr/msr2010.html#JuzgadoV10</url>
+	</inproceedings>
+	<inproceedings mdate="2010-05-28" key="conf/msr/MauczkaSFBG10">
+		<author>Andreas Mauczka</author>
+		<author>Christian Schanes</author>
+		<author>Florian Fankhauser</author>
+		<author>Mario Bernhart</author>
+		<author>Thomas Grechenig</author>
+		<title>Mining security changes in FreeBSD.</title>
+		<pages>90-93</pages>
+		<year>2010</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2010.5463289</ee>
+		<crossref>conf/msr/2010</crossref>
+		<url>db/conf/msr/msr2010.html#MauczkaSFBG10</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-10" key="conf/msr/KagdiCM07">
+		<author>Huzefa H. Kagdi</author>
+		<author>Michael L. Collard</author>
+		<author>Jonathan I. Maletic</author>
+		<title>Comparing Approaches to Mining Source Code for Call-Usage Patterns.</title>
+		<pages>20</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.3</ee>
+		<url>db/conf/msr/msr2007.html#KagdiCM07</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/AsaduzzamanBRS12">
+		<author>Muhammad Asaduzzaman</author>
+		<author>Michael C. Bullock</author>
+		<author>Chanchal K. Roy</author>
+		<author>Kevin A. Schneider</author>
+		<title>Bug introducing changes: A case study with Android.</title>
+		<pages>116-119</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224267</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#AsaduzzamanBRS12</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/IacobH13">
+		<author>Claudia Iacob</author>
+		<author>Rachel Harrison</author>
+		<title>Retrieving and analyzing mobile apps feature requests from online reviews.</title>
+		<pages>41-44</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487094</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#IacobH13</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/HemmatiNBKWHG13">
+		<author>Hadi Hemmati</author>
+		<author>Sarah Nadi</author>
+		<author>Olga Baysal</author>
+		<author>Oleksii Kononenko</author>
+		<author>Wei Wang</author>
+		<author>Reid Holmes</author>
+		<author>Michael W. Godfrey</author>
+		<title>The MSR cookbook: mining a decade of research.</title>
+		<pages>343-352</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487150</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#HemmatiNBKWHG13</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/Breckel12">
+		<author>Alexander Breckel</author>
+		<title>Error mining: Bug detection through comparison with large code databases.</title>
+		<pages>175-178</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224278</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#Breckel12</url>
+	</inproceedings>
+	<inproceedings mdate="2007-07-02" key="conf/msr/YuR07">
+		<author>Liguo Yu</author>
+		<author>Srini Ramaswamy</author>
+		<title>Mining CVS Repositories to Understand Open-Source Project Developer Roles.</title>
+		<pages>8</pages>
+		<year>2007</year>
+		<crossref>conf/msr/2007</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2007.19</ee>
+		<url>db/conf/msr/msr2007.html#YuR07</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/AllamanisS13">
+		<author>Miltiadis Allamanis</author>
+		<author>Charles A. Sutton</author>
+		<title>Why, when, and what: analyzing stack overflow questions by topic, type, and code.</title>
+		<pages>53-56</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487098</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#AllamanisS13</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/RaemaekersNDV13">
+		<author>Steven Raemaekers</author>
+		<author>Gabriela F. Nane</author>
+		<author>Arie van Deursen</author>
+		<author>Joost Visser</author>
+		<title>Testing principles, current practices, and effects of change localization.</title>
+		<pages>257-266</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487136</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#RaemaekersNDV13</url>
+	</inproceedings>
+	<inproceedings mdate="2013-05-21" key="conf/msr/Murphy13">
+		<author>Gail C. Murphy</author>
+		<title>What is software development productivity, anyway? (keynote).</title>
+		<pages>1</pages>
+		<year>2013</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dl.acm.org/citation.cfm?id=2487087</ee>
+		<crossref>conf/msr/2013</crossref>
+		<url>db/conf/msr/msr2013.html#Murphy13</url>
+	</inproceedings>
+	<inproceedings mdate="2012-07-06" key="conf/msr/PosnettDF12">
+		<author>Daryl Posnett</author>
+		<author>Premkumar T. Devanbu</author>
+		<author>Vladimir Filkov</author>
+		<title>MIC check: A correlation tactic for ESE data.</title>
+		<pages>22-31</pages>
+		<year>2012</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://dx.doi.org/10.1109/MSR.2012.6224295</ee>
+		<crossref>conf/msr/2012</crossref>
+		<url>db/conf/msr/msr2012.html#PosnettDF12</url>
+	</inproceedings>
+	<inproceedings mdate="2011-05-30" key="conf/msr/HellerMRH11">
+		<author>Brandon Heller</author>
+		<author>Eli Marschner</author>
+		<author>Evan Rosenfeld</author>
+		<author>Jeffrey Heer</author>
+		<title>Visualizing collaboration and influence in the open-source software community.</title>
+		<pages>223-226</pages>
+		<year>2011</year>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1985441.1985476</ee>
+		<crossref>conf/msr/2011</crossref>
+		<url>db/conf/msr/msr2011.html#HellerMRH11</url>
+	</inproceedings>
+	<inproceedings mdate="2006-09-21" key="conf/msr/KimPW06">
+		<author>Sunghun Kim</author>
+		<author>Kai Pan</author>
+		<author>E. James Whitehead Jr.</author>
+		<title>Micro pattern evolution.</title>
+		<pages>40-46</pages>
+		<year>2006</year>
+		<crossref>conf/msr/2006</crossref>
+		<booktitle>MSR</booktitle>
+		<ee>http://doi.acm.org/10.1145/1137983.1137995</ee>
+		<url>db/conf/msr/msr2006.html#KimPW06</url>
+	</inproceedings>
+</dblp>

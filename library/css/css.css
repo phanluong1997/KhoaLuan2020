@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    
+}
+header {
+    background-color: white;
+    color: blue;
+    text-align: center;
+    padding-right: 325px;
+
+}
+h6{
+    color: black;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+
+
+#footer{
+    margin-top:20px;
+}
+.contact{
+
+    text-align: center;
+   color: cornflowerblue;
+
+}
+.table{
+    vertical-align: bottom;
+    text-align: left;
+}
+
+
